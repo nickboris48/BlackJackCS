@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src", "src\src.csproj", "{555158E3-1379-4023-89B0-C074A0B9FA92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "src\BlackJack.csproj", "{555158E3-1379-4023-89B0-C074A0B9FA92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
